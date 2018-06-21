@@ -142,7 +142,7 @@ private Map<String,String> map_sum;
                         }
                         //进行比较放在list里面
                         /**
-                         * 进行比较
+                         * 进行比较12
                          */
                         List list=new ArrayList();
                         for(Iterator t=map_tran.keySet().iterator();t.hasNext();){
