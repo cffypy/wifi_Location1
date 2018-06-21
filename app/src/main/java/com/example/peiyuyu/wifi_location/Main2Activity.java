@@ -141,7 +141,9 @@ private Map<String,String> map_sum;
                             map_tran.put(next,map1);
                         }
                         //进行比较放在list里面
-
+                        /**
+                         * 进行比较
+                         */
                         List list=new ArrayList();
                         for(Iterator t=map_tran.keySet().iterator();t.hasNext();){
                             Object next = t.next();//重新存储后的mac地址
